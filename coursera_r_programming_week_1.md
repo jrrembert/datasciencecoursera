@@ -1,3 +1,5 @@
+*[Disclaimer: these are notes derived from the Coursera MOOC: [R Programming](https://class.coursera.org/rprog-004), taught by Professors Roger D. Peng, Jeff Leek, and Brian Caffo of the John Hopkins Bloomberg School of Public Health. These are my personal notes taken via their lecture videos and slideware and may have annotations, code, or be structured differently from how their materials are presented. In some cases there may be typos or inaccuracies depending on the version of R used and packages loaded. There are no references or work pertaining to any of the graded exercises for the course and these materials should only be used as a quick reference for understanding certain aspects of the R language.]* 
+
 #R Programming Week 1
 
 ##History
